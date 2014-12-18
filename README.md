@@ -1,4 +1,4 @@
 ArtOpsInABox
 ============
-* [Open The Box] (https://github.com/ArtOperations/ArtOpsInABox/tree/master/OpenTheBox)
-  * [Instruction Manual] (https://github.com/ArtOperations/ArtOpsInABox/tree/master/OpenTheBox/InstructionManual)
+* [Open The Box] (https://github.com/antiface/ArtOpsInABox/tree/master/OpenTheBox)
+  * [Instruction Manual] (https://github.com/antiface/ArtOpsInABox/tree/master/OpenTheBox/InstructionManual)
