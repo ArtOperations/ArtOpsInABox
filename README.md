@@ -2,3 +2,5 @@ ArtOpsInABox [![DOI](https://zenodo.org/badge/3845/antiface/ArtOpsInABox.svg)](h
 ============
 * [Open The Box] (https://github.com/antiface/ArtOpsInABox/tree/master/OpenTheBox)
   * [Instruction Manual] (https://github.com/antiface/ArtOpsInABox/tree/master/OpenTheBox/InstructionManual)
+
+## [BACK TO INDEX OF REPOSITORIES] (https://github.com/antiface/Index)
